@@ -1,4 +1,4 @@
-## Analises Python
+## Análises Python
 Análise de Dados com Python.
 
 **comportamento_compra.ipynb:** Análise de comportamento de compra dos consumidores.<br>
